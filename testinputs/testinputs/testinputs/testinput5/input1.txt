@@ -1,0 +1,2 @@
+SAT
+(AxEyP(x,y)/\EzQ(z,z))
