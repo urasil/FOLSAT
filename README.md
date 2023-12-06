@@ -1,5 +1,5 @@
 # FOLSAT
-A tool for checking satisfiability of FOL formulas.
+A tool for checking satisfiability of FOL formulas that uses no external libraries.
 
 ## Instructions
 The input has to be very specific. The first line of input file has to be SAT, PARSE or both in order to be understood by the tool. 
