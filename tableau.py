@@ -459,7 +459,7 @@ def sat(tableau):
     return 0
 
 #DO NOT MODIFY THE CODE BELOW
-f = open('/home/uras/Documents/parser/testinputs/testinputs/testinputs/testinput5/input.txt')
+f = open('input.txt')
 
 parseOutputs = ['not a formula',
                 'an atom',
